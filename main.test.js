@@ -17,7 +17,7 @@ function opposite(op) {
 }
 
 function makeFullName(is) {
-  is = name + ' ' + is
+  name = name + ' ' + is
 }
 
 function yellAt(ye) {
