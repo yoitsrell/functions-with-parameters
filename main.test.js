@@ -16,12 +16,12 @@ function opposite(op) {
   z = op * -1
 }
 
-function makeFullName(na) {
-  name = na + ' '
+function makeFullName(is) {
+  is = name + ' ' + is
 }
 
-function yellAt(nGr) {
- greeting = greeting + ', ' + '!'
+function yellAt(ye) {
+  greeting = greeting + ', ' + ye + '!'
 }
 
 /*********************************************************************************************************************
