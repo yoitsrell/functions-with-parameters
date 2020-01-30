@@ -1,4 +1,28 @@
+let x = 3
+let y = 10
+let z = 5
+let name = 'Ty'
+let greeting = 'HEY'
 
+function multiply(mu) {
+x = mu * x
+}
+
+function modYBy(fun) {
+  y = y % fun
+}
+
+function opposite(op) {
+  z = op * -1
+}
+
+function makeFullName(na) {
+  name = na + ' '
+}
+
+function yellAt(nGr) {
+ greeting = greeting + ', ' + '!'
+}
 
 /*********************************************************************************************************************
 
